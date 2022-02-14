@@ -1,0 +1,9 @@
+.posi{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    /* justify-content: space-around;
+    align-items:flex-start; */
+    gap: 1rem;
+
+}
